@@ -3,4 +3,4 @@ NOVILAB RESOLUSI
 -Membuat platform untuk fandom pengelolaan video stream
 -Blog untuk MOA
 -Forum diskusi
--Kolab dengan banyak orang
+-Kolab dengan banyak programmer
